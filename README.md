@@ -1,6 +1,6 @@
 # Image Segmentation - Part 4: Unsupervised Machine Learning
 
-[![test-pr](https://github.com/danforthcenter/plantcv-tutorial-template/actions/workflows/ci-tests.yml/badge.svg)](https://github.com/danforthcenter/plantcv-tutorial-template/actions/workflows/ci-tests.yml)
+[![test-pr](https://github.com/danforthcenter/plantcv-tutorial-unsupervised-ml/actions/workflows/ci-tests.yml/badge.svg)](https://github.com/danforthcenter/plantcv-tutorial-unsupervised-ml/actions/workflows/ci-tests.yml)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danforthcenter/plantcv-tutorial-unsupervised-ml/HEAD)
 
